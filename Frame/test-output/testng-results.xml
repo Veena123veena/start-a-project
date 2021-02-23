@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18824" started-at="2021-02-23T17:19:24Z" finished-at="2021-02-23T17:19:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18824" started-at="2021-02-23T17:19:24Z" finished-at="2021-02-23T17:19:42Z">
+      <class name="Test_scripts.Valid_login">
+        <test-method status="PASS" signature="opentheappln()[pri:0, instance:Test_scripts.Valid_login@4b9e13df]" name="opentheappln" is-config="true" duration-ms="12202" started-at="2021-02-23T22:49:24Z" finished-at="2021-02-23T22:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentheappln -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Test_scripts.Valid_login@4b9e13df]" name="Login" duration-ms="3287" started-at="2021-02-23T22:49:36Z" finished-at="2021-02-23T22:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="closetheappln()[pri:0, instance:Test_scripts.Valid_login@4b9e13df]" name="closetheappln" is-config="true" duration-ms="3304" started-at="2021-02-23T22:49:39Z" finished-at="2021-02-23T22:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closetheappln -->
+      </class> <!-- Test_scripts.Valid_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
